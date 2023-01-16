@@ -1,0 +1,12 @@
+.header{
+    border: 1px solid green;
+    border: 1px solid green;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 40vw;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    display: flex;
+    font-weight: 900;
+    padding: 20px;
+}
