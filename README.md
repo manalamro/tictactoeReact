@@ -1,3 +1,12 @@
+# about project 
+
+this project is a tic tac toe game, which built by react
+at this project i used :
+localstorage to store data, state management, props concepts.
+
+# project demo
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
