@@ -7,6 +7,9 @@ localstorage to store data, state management, props concepts.
 # project demo
 
 
+https://user-images.githubusercontent.com/105562468/216142578-79d91ad9-4980-4683-909d-2f68c56594c3.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
